@@ -10,4 +10,6 @@ You can use Renamer for rename all images. For example: 124512.jpg -> 1-car.jpg 
 
 You can use csv builder for create csv files for Deep Learning with images.
 
+You can use CSV Builder tor create zip for Deep Learning Studio (Deep Cognition).
+
 You can use Retinex to create filtered imagesets (Retinex, AutomatedRetinex, MSRCP).
