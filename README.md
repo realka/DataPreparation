@@ -13,3 +13,7 @@ You can use csv builder for create csv files for Deep Learning with images.
 You can use CSV Builder tor create zip for Deep Learning Studio (Deep Cognition).
 
 You can use Retinex to create filtered imagesets (Retinex, AutomatedRetinex, MSRCP).
+
+Filters.py contains a lot of cv2 filters. You can use it for data preparation before Machine Learning methods.
+
+They are working with multi folder.
