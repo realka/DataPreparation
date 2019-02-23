@@ -3,7 +3,7 @@ import glob, os
 import sys
 #name="explainer.jpg"
 name= sys.argv[1]
-counter = 351
+counter = 1
 for infile in glob.glob("*.jpg"):
     file, ext = os.path.splitext(infile)
     im = Image.open(infile)
